@@ -1,3 +1,6 @@
+#Hello Everyone I am Tushar From India.
+#My profession is Student of BE IT.
+Its my First Project.
 # Registration-page
 Work in progress.......
 On this project i am only show you the front page or first page of student registration form
